@@ -48,4 +48,5 @@ npm install
 - Flowbite (for UI)
 - Tailwind CSS (for styling)
 
-© 2024 [Ulvi Parvizoghlu](https://github.com/UlviParvizoghlu)
+
+
